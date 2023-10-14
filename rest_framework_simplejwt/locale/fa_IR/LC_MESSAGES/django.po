@@ -2,7 +2,7 @@
 # FIRST AUTHOR <hirad.daneshvar@gmail.com>, 2020.
 msgid ""
 msgstr ""
-"Project-Id-Version: djangorestframework_simplejwt\n"
+"Project-Id-Version: djrestframework_simplejwt\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-07-06 12:57+0330\n"
 "Last-Translator: Mahdi Rahimi <mahdi.rahimi95@gmail.com>\n"
